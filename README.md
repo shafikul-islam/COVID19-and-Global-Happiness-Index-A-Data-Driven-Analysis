@@ -1,4 +1,4 @@
-### Project Name: COVID19 and Global Happiness Index: A Data-Driven Analysis
+# COVID19 and Global Happiness Index: A Data-Driven Analysis
 
 
 ## Overview
