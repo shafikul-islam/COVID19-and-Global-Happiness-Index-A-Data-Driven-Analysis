@@ -1,6 +1,39 @@
-# COVID19-Data-Analysis-Using-Python
-
-In this project, datasets are  preprocessed and merged to calculate needed measures and prepare them for an Analysis. In this project, we are going to work with the COVID19 dataset, published by John Hopkins University, which consists of the data related to the cumulative number of confirmed cases, per day, in each Country. Also, we have another dataset consist of various life factors, scored by the people living in each country around the globe.  We are going to merge these two datasets to see if there is any relationship between the spread of the virus in a country and how happy people are, living in that country.
+### Project Name: COVID19 and Global Happiness Index: A Data-Driven Analysis
 
 
-After completing the analysis  an useful insight is founded that, country which has large GDP and big economy has more Covid 19 confirmed cases. 
+## Overview
+
+The COVID-19 pandemic has not only posed a global health crisis but also impacted various socio-economic factors worldwide. This project delves into understanding the relationship between the spread of COVID-19 in different countries and the happiness index of their residents. By merging COVID-19 data from John Hopkins University with the World Happiness Report, this project aimed to uncover insights that link health crises with societal well-being.
+
+## Objectives
+
+1. **Data Import and Preprocessing**: Import and preprocess COVID-19 datasets, aggregate data by country, and prepare for analysis.
+2. **Visualization**: Visualize COVID-19 data related to countries like China, Italy, and Spain to gain insights into the spread of the virus.
+3. **Measuring Impact**: Calculate a suitable metric to describe the severity of the virus's spread in each country.
+4. **Correlation Analysis**: Explore correlations between COVID-19 statistics and various life factors like GDP, freedom, and healthy life expectancy.
+
+
+## Files in Repository
+
+- **README.md**: This file providing an overview of the project.
+- **COVID-19 data analysis notebook.ipynb**: Jupyter Notebook containing the Python code and analysis.
+- **covid19_Confirmed_dataset.csv**: Dataset related to COVID19 confirmed cases.
+- **worldwide_happiness_report.csv**: Dataset containing the World Happiness Report metrics.
+
+
+## Insights
+
+After comprehensive analysis, a notable insight emerged: countries with larger GDP and stronger economies tend to have higher COVID-19 confirmed cases. This finding underscores the intricate relationship between economic prosperity and health outcomes during global crises.
+
+
+## How to Use
+
+1. Clone this repository to your local machine.
+2. Open the `covid19 data analysis notebook.ipynb` file in Jupyter Notebook or any compatible environment.
+3. Execute the cells to reproduce the analysis and visualizations.
+
+## Contributing
+
+If you have suggestions or improvements, please feel free to create a pull request or open an issue.
+
+Feel free to adjust the content to better align with your project's specific details and findings.
